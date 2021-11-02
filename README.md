@@ -11,11 +11,9 @@
 
 <br>
 
-<h1 align="center">
-  <img alt="" title="Beautypet" src="arquivos/print_desktop.png" width="220px" />
-</h1>
-
-
+<p align="center">
+  <img alt="" src="arquivos/gif_desktop.gif" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
@@ -25,16 +23,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
-<p align="center">
-  <img alt="" src="arquivos/gif_desktop.gif" width="100%">
-</p>
-
 ## 💻 Projeto
 
 O BeutyPet é um site que pode ser adaptado para diversas necessidades, pois conta com várias sessões que servem para mostrar ao mundo todo o conteúdo que sua empresa possui. Neste exemplo ele está adaptado para um PetShop, que possui serviços de beleza para o seus pets, acessórios e itens vitais para cuidar do seu amiguinho(a).
 
+
+## 💻 Responsivo
+
+- Esta foi a versão inicial do projeto, e utilizando media queries, foi feita a versão desktop (no inicio da página).
+
 <p align="center">
-  <img alt="Gif_beautypet" src="arquivos/gif_mobile.gif" width="100%" responsivo>
+  <img alt="Gif_beautypet" src="arquivos/gif_responsivo.gif" width="50%">
 </p>
 
 ## 🚆 Milhas extras
