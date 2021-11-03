@@ -24,6 +24,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
+Bibliotecas
+
+- [Google Fonts](https://fonts.google.com/)
+- [SwipeJS](https://github.com/nolimits4web/Swiper)
+- [ScrollRevel](https://scrollrevealjs.org)
+
+Utilitários
+
+- [randomuser.me](https://randomuser.me/photos)
+- [IconMoon](https://icomoon.io/app/#/select)
+
+
 ## 💻 Projeto
 
 O BeutyPet é um site que pode ser adaptado para diversas necessidades, pois conta com várias sessões que servem para mostrar ao mundo todo o conteúdo que sua empresa possui. Neste exemplo ele está adaptado para um PetShop, que possui serviços de beleza para o seus pets, acessórios e itens vitais para cuidar do seu amiguinho(a).
